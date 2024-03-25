@@ -1,0 +1,6 @@
+console.log ['hello world']
+let FavouritColour1 = ['blue']
+console.log [FavouritColour1]
+let FavouritColour2 = ['grey']
+console.log [FavouritColour2]
+console.log['grey']
